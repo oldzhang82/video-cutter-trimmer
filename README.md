@@ -1,5 +1,9 @@
 # Video Cutter / Trimmer / Uploader
 
+Built with assistance from **CodeBuddy**, **DeepSeek**, 熊仔, and 乐平.
+
+---
+
 A blazing-fast video processing tool powered by FFmpeg. Cut, trim, compress, and upload videos — all in one lightweight GUI.
 
 ## Why This Tool?
@@ -66,10 +70,6 @@ Copy `config.json` template and fill in your settings:
 ├── .gitignore
 └── README.md
 ```
-
-## Acknowledgments
-
-Built with ❤️ and assistance from **CodeBuddy**, **DeepSeek**, 熊仔, and 乐平.
 
 ## License
 
