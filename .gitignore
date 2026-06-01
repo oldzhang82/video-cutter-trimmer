@@ -1,0 +1,11 @@
+# FFmpeg binaries (100+ MB each, download separately)
+ffmpeg.exe
+ffprobe.exe
+ffmpeg.zip
+
+# User config (contains API keys / tokens)
+config.json
+
+# Python cache
+*.pyc
+__pycache__/
