@@ -1,6 +1,6 @@
 # Video Cutter / Trimmer / Uploader
 
-Built with assistance from **CodeBuddy**, **DeepSeek**, 熊仔, and 乐平.
+With great support from **CodeBuddy**, **DeepSeek**, 熊仔, and 乐平.
 
 ---
 
